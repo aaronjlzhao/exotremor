@@ -1,6 +1,11 @@
 # Project Overview
-ExoTremor is a proprietary initiative to develop an affordable, wearable assistive device designed to help individuals with hand tremors, such as those caused by movement disorders, perform daily tasks with greater stability. The project was inspired by the creator's personal experience with shaky hands, which made precision tasks challenging, and a desire to address the lack of accessible solutions for people in developing countries. ExoTremor aims to provide a cost-effective alternative to expensive medical technologies, enabling users to regain control over tasks like picking up a cup or aligning a screwdriver.
+ExoTremor is an affordable, 3D-printed, wearable assistive device designed to help individuals with hand tremors, such as those caused by movement disorders, perform daily tasks with greater stability. The project was inspired by the creator's personal experience with shaky hands, which made precision tasks challenging, and a desire to address the lack of accessible solutions for people in developing countries. ExoTremor aims to provide a cost-effective alternative to expensive medical technologies, enabling users to regain control over tasks like picking up a cup or aligning a screwdriver.
 The project is in its early stages, with a prototype focused on stabilizing wrist flexion-extension movements. Initial experiments have shown promising results in reducing tremor amplitude, and we are now inviting interested parties to participate in beta testing or explore partnership opportunities to help refine the design, expand its capabilities, and conduct further testing.
+
+# Project Accolades: 
+- National winner of the Ingenious+ Innovation Challenge in 2023. Read more here: [external link](https://canadianinnovationspace.ca/national-winners-of-ingenious-youth-innovation-challenge-2023-aaron-zhao/)
+- Bronze medalist at the Canada Wide Science Fair 2023: Read more here: [external link](https://partner.projectboard.world/ysc/project/exotremor-a-low-cost-3d-printed-exoskeleton-that-suppresses-tremors-in-movement-disorder-patients-edpmnr)
+- Article written by McMaster University: Read more here: [external link](https://www.eng.mcmaster.ca/ibiomed/news/a-stable-solution-for-people-living-with-hand-tremors/)
 
 # Features
 - Wearable device to stabilize hand and wrist movements
@@ -27,3 +32,5 @@ The Gyroscope Diagnostic Tool is a companion software that interfaces with the d
 - Activate: Turn on the stabilization feature.
 - Perform Tasks: Engage in activities like writing, holding objects, or pouring liquids with improved stability.
 - Monitor: Use the Gyroscope Diagnostic Tool to track tremor patterns and adjust the device as needed.
+
+
